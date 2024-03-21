@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="./icon/icon.png">
-</p>
+<div style="text-align: center;">
+    <picture>
+        <source srcset="./icon/icon-light.png" media="(prefers-color-scheme: dark)">
+        <img src="./icon/icon-dark.png">
+    </picture>
+</div>
+
 <p>
 <div align = "center">
 <p>Oxi! is an Osu! skin used all element from the 'Egokara' and some other skins in internet.</p>
@@ -13,7 +17,7 @@
 
 ## Preview
 
-> [Watch demo on Youtube](youtube.com)
+> [Watch demo on Youtube (Not uploaded yet)](youtube.com)
 
 <details>
 <summary>🎮In-game Preview</summary>
@@ -40,6 +44,10 @@
 
     > A: Osu! has already have a option to disable it. Just go to 'Options' and type 'Combo burst' and disable it.
 
+## Changelog
+
+- v1.0
+    - Initial Release
 
 ## Download
 
