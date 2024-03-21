@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <picture>
         <source srcset="./icon/icon-light.png" media="(prefers-color-scheme: dark)">
         <img src="./icon/icon-dark.png">
