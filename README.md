@@ -44,6 +44,9 @@
 
     > A: Osu! has already have a option to disable it. Just go to 'Options' and type 'Combo burst' and disable it.
 
+- Q: What if I downloaded `zip` file?
+    > A: Just extract it in a any folder
+    
 ## Changelog
 
 - v1.0
@@ -51,5 +54,5 @@
 
 ## Download
 
-[![GitHub Release](https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub&style=for-the-badge)](link-to-the-file)
+[![GitHub Release](https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub&style=for-the-badge)]([link-to-the-file](https://github.com/kleqing/Oxi/releases/tag/1.0))
 
